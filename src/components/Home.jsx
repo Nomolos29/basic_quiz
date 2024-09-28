@@ -70,11 +70,10 @@ const Home = () => {
 
     setSubmit(!submit);
 
-    if(!submit) {
-      setShowQuestion(0);
-      setCorrectAnswer(0);
-      setChoice(false);
-    }
+    setShowQuestion(0);
+    setCorrectAnswer(0);
+    setChoice(false);
+
 
   }
 
