@@ -1,0 +1,206 @@
+[
+  {
+      "question": "What is Ethereum primarily used for?",
+      "options": ["Cryptocurrency transactions", "Smart contracts", "File storage", "Social networking"],
+      "answer": "Smart contracts"
+  },
+  {
+      "question": "What is the native currency of Ethereum?",
+      "options": ["Ether", "Bitcoin", "Litecoin", "Ripple"],
+      "answer": "Ether"
+  },
+  {
+      "question": "Who created Ethereum?",
+      "options": ["Vitalik Buterin", "Satoshi Nakamoto", "Charles Hoskinson", "Gavin Wood"],
+      "answer": "Vitalik Buterin"
+  },
+  {
+      "question": "What is a decentralized application (dApp)?",
+      "options": ["An application controlled by a central authority", "An application that runs on a blockchain", "A mobile application", "A web application"],
+      "answer": "An application that runs on a blockchain"
+  },
+  {
+      "question": "What is the primary purpose of Ethereum's smart contracts?",
+      "options": ["To facilitate secure transactions", "To execute code automatically", "To manage databases", "To create user interfaces"],
+      "answer": "To execute code automatically"
+  },
+  {
+      "question": "Which consensus mechanism does Ethereum 2.0 primarily use?",
+      "options": ["Proof of Work", "Proof of Stake", "Delegated Proof of Stake", "Proof of Authority"],
+      "answer": "Proof of Stake"
+  },
+  {
+      "question": "What is a gas limit in Ethereum?",
+      "options": ["The maximum amount of ether one can hold", "The maximum amount of computational work one can perform", "The maximum transaction fee", "The maximum number of transactions per block"],
+      "answer": "The maximum amount of computational work one can perform"
+  },
+  {
+      "question": "What is the Ethereum Virtual Machine (EVM)?",
+      "options": ["A mining tool", "A programming language", "A runtime environment for smart contracts", "A wallet"],
+      "answer": "A runtime environment for smart contracts"
+  },
+  {
+      "question": "What is a token in the context of Ethereum?",
+      "options": ["A physical coin", "A digital representation of an asset", "A user account", "A transaction fee"],
+      "answer": "A digital representation of an asset"
+  },
+  {
+      "question": "Which of the following is an Ethereum standard for tokens?",
+      "options": ["ERC-20", "ERC-721", "ERC-1155", "All of the above"],
+      "answer": "All of the above"
+  },
+  {
+      "question": "What is the purpose of the Ethereum Foundation?",
+      "options": ["To regulate Ethereum transactions", "To promote Ethereum and support development", "To create hardware wallets", "To mine ether"],
+      "answer": "To promote Ethereum and support development"
+  },
+  {
+      "question": "What is a hard fork?",
+      "options": ["A software update", "A permanent divergence from the previous version", "A method of mining", "A wallet type"],
+      "answer": "A permanent divergence from the previous version"
+  },
+  {
+      "question": "What does the term 'decentralization' mean in Ethereum?",
+      "options": ["Centralized control", "Distribution of power among participants", "High transaction fees", "Increased speed of transactions"],
+      "answer": "Distribution of power among participants"
+  },
+  {
+      "question": "What is a blockchain?",
+      "options": ["A type of wallet", "A digital ledger of transactions", "A social media platform", "A programming language"],
+      "answer": "A digital ledger of transactions"
+  },
+  {
+      "question": "What is the purpose of an Initial Coin Offering (ICO)?",
+      "options": ["To raise funds for a project", "To sell physical products", "To regulate cryptocurrencies", "To mine ether"],
+      "answer": "To raise funds for a project"
+  },
+  {
+      "question": "Which tool is commonly used to develop Ethereum smart contracts?",
+      "options": ["Solidity", "Python", "JavaScript", "C++"],
+      "answer": "Solidity"
+  },
+  {
+      "question": "What is the role of miners in Ethereum?",
+      "options": ["To create new blocks and secure the network", "To develop smart contracts", "To issue tokens", "To manage user accounts"],
+      "answer": "To create new blocks and secure the network"
+  },
+  {
+      "question": "What does 'immutable' mean in the context of blockchain?",
+      "options": ["Data can be altered easily", "Data cannot be changed once recorded", "Data is stored in the cloud", "Data is temporary"],
+      "answer": "Data cannot be changed once recorded"
+  },
+  {
+      "question": "What is staking in Ethereum 2.0?",
+      "options": ["Mining ether", "Locking up ether to earn rewards", "Buying tokens", "Trading cryptocurrencies"],
+      "answer": "Locking up ether to earn rewards"
+  },
+  {
+      "question": "Which of the following is a characteristic of Ethereum?",
+      "options": ["Limited scalability", "High transaction speed", "Centralized control", "No smart contracts"],
+      "answer": "Limited scalability"
+  },
+  {
+    "question": "What is Solidity?",
+    "options": ["A blockchain", "A programming language for Ethereum", "A type of cryptocurrency", "A wallet service"],
+    "answer": "A programming language for Ethereum"
+  },
+  {
+      "question": "What is a contract in Solidity?",
+      "options": ["A legal agreement", "A type of digital asset", "A self-executing code on the blockchain", "A user account"],
+      "answer": "A self-executing code on the blockchain"
+  },
+  {
+      "question": "Which data type represents a boolean value in Solidity?",
+      "options": ["int", "string", "bool", "address"],
+      "answer": "bool"
+  },
+  {
+      "question": "What keyword is used to declare a function in Solidity?",
+      "options": ["func", "function", "method", "declare"],
+      "answer": "function"
+  },
+  {
+      "question": "What is the purpose of the 'constructor' in a Solidity contract?",
+      "options": ["To execute code before the contract is deployed", "To set initial values", "To destroy the contract", "To call other contracts"],
+      "answer": "To set initial values"
+  },
+  {
+      "question": "What is an event in Solidity?",
+      "options": ["A function call", "A way to log data on the blockchain", "An error message", "A contract method"],
+      "answer": "A way to log data on the blockchain"
+  },
+  {
+      "question": "What is the default visibility of a function in Solidity?",
+      "options": ["public", "private", "internal", "external"],
+      "answer": "public"
+  },
+  {
+      "question": "What does the 'mapping' data structure in Solidity represent?",
+      "options": ["A list of functions", "A key-value store", "An array of integers", "A type of event"],
+      "answer": "A key-value store"
+  },
+  {
+      "question": "What is the purpose of 'require' in Solidity?",
+      "options": ["To send ether", "To validate conditions", "To define a contract", "To call another contract"],
+      "answer": "To validate conditions"
+  },
+  {
+      "question": "Which function is called when a contract is sent ether directly?",
+      "options": ["fallback", "receive", "constructor", "default"],
+      "answer": "receive"
+  },
+  {
+      "question": "What does 'storage' mean in Solidity?",
+      "options": ["Temporary data storage", "Permanent data on the blockchain", "User interface data", "External API data"],
+      "answer": "Permanent data on the blockchain"
+  },
+  {
+      "question": "What is the purpose of 'msg.sender' in Solidity?",
+      "options": ["To get the address of the sender", "To define the contract", "To log events", "To send ether"],
+      "answer": "To get the address of the sender"
+  },
+  {
+      "question": "What is an interface in Solidity?",
+      "options": ["A method for sending ether", "A way to inherit from another contract", "A contract that defines functions but no implementation", "A user interface"],
+      "answer": "A contract that defines functions but no implementation"
+  },
+  {
+      "question": "What does 'override' do in Solidity?",
+      "options": ["To replace a function implementation", "To define a new contract", "To create a mapping", "To call another contract"],
+      "answer": "To replace a function implementation"
+  },
+  {
+      "question": "What is 'inheritance' in Solidity?",
+      "options": ["A way to send ether", "A mechanism to create derived contracts from existing ones", "A method for logging events", "A way to store data"],
+      "answer": "A mechanism to create derived contracts from existing ones"
+  },
+  {
+      "question": "Which operator is used to access the properties of a struct in Solidity?",
+      "options": [".", "->", "[]", "()"],
+      "answer": "."
+  },
+  {
+      "question": "What does 'payable' keyword signify in a function?",
+      "options": ["Function can send ether", "Function can receive ether", "Function cannot return values", "Function is public"],
+      "answer": "Function can receive ether"
+  },
+  {
+      "question": "What is the purpose of 'this' in Solidity?",
+      "options": ["To refer to the current contract instance", "To create a new contract", "To send ether", "To call a function"],
+      "answer": "To refer to the current contract instance"
+  },
+  {
+      "question": "What does 'view' keyword indicate in a function?",
+      "options": ["Function can modify state", "Function does not modify state", "Function can send ether", "Function cannot return values"],
+      "answer": "Function does not modify state"
+  },
+  {
+      "question": "What is a 'modifier' in Solidity?",
+      "options": ["A function that alters state", "A condition that must be met for a function to execute", "A data structure", "A type of contract"],
+      "answer": "A condition that must be met for a function to execute"
+  }
+
+]
+
+
+
