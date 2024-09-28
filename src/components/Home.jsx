@@ -83,7 +83,7 @@ const Home = () => {
     <div className="flex flex-col justify-center items-center p-4 w-screen h-screen bg-gradient-to-tl from-black via-gray-400 to-gray-200">
       <h1 className="text-4xl font-semibold text-gray-500 pb-5">Basic Quiz</h1>
       <main className="flex justify-center p-5 rounded-2xl w-[600px] h-[450px] shadow-md shadow-white drop-shadow-xl backdrop-blur-2xl shadow-inner bg-white/35 border-[2px] ">
-        {submit ? <span className="flex flex-col justify-between w-full">
+        {!submit ? <span className="flex flex-col justify-between w-full">
           <h2 className="border-b-[1px] border-gray-200 pb-3 text-xl">Question{showQuestion + 1}/{questions.length}</h2>
 
           <section className="py-5 flex flex-col justify-between">
