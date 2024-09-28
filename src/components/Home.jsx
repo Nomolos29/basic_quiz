@@ -68,6 +68,8 @@ const Home = () => {
 
   const handleReplay = () => {
 
+    setSubmit(!submit);
+
     if(!submit) {
       setShowQuestion(0);
       setCorrectAnswer(0);
